@@ -16,3 +16,6 @@
 6. Commit your changes regularly.
 7. When you have finished the project, push your changes up to your remote repo.
 8. Lastly, _open a pull request_ to merge your changes back into `Marcy-Lab-School/abstract-art-lab`
+
+### Due Date
+Thursday, September 19 at 9AM
