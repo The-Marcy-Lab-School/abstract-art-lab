@@ -3,7 +3,7 @@
 
 ### Objective
 * Reuben is an aspiring artist 👨🏿‍🎨. He specializes in abstract art. He has designed a piece that he hopes to sell for enough 💰💰💰 to fund the rest of the year at the Marcy Lab School but first, he needs his Fellows to draw this up on plain old HTML and CSS.
-* Your task is to [**recreate this mockup**](https://www.figma.com/proto/ntceKrzARY1rJfqGf0Vl2m/Box-Model-Lab-Abstract-Art?node-id=1%3A2&scaling=min-zoom) in HTML/CSS.
+* Your task is to [**recreate this mockup**](http://abstract-art-lab.s3-website.us-east-2.amazonaws.com/) in HTML/CSS.
 * You will have to rely on your display properties and understanding of the Box Model in order to produce a **pixel perfect** recreation!
 * **Note**: There are no customizations allowed for this lab🙅🏿‍♂️. In order to pass, your project must pass the _blink test_.
 
