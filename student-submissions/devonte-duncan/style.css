@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+#red-box{
+    height: 289px ;
+    width: 455px;
+    background-color: #f2997d;
+    border: 39px solid #7a7a7a;
+    margin-left: 44px;
+    margin-top: -10px;
+    margin-right: 35px;
+}
+
+#indigo-box{
+    height: 198px;
+    width: 457px;
+    background-color: #9b7df2;
+    
+}
