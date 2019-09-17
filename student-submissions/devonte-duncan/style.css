@@ -5,19 +5,55 @@ html {
   box-sizing: inherit;
 }
 
+body{
+  margin: 0px;
+}
+
+section{
+  display: flex;
+}
+
 #red-box{
     height: 289px ;
     width: 455px;
     background-color: #f2997d;
     border: 39px solid #7a7a7a;
     margin-left: 44px;
-    margin-top: -10px;
     margin-right: 35px;
 }
 
 #indigo-box{
     height: 198px;
-    width: 457px;
+    width: 456px;
     background-color: #9b7df2;
-    
+    border: 71px solid #7a7a7a;
+    border-top: 64px solid #7a7a7a;
 }
+
+#orange-box{
+  height: 225px;
+  width: 113px;
+  background-color: #F2CA7D;
+  border: 25px solid #7a7a7a;
+  margin-left: 15px;
+  margin-top: 58px;
+}
+
+#forestGreen-box{
+  height: 296px;
+  width: 457px;
+  border: 16px solid #7a7a7a;
+  margin-left: 44px;
+  margin-top: 15px;
+  padding-left: 116px;
+  padding-right: 116px;
+}
+#boxInsideFG-box{
+  background-color: #7DF288;
+  height: 211px;
+  width: 195px;
+  margin-top: 25px;
+}
+
+
+
