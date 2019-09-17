@@ -54,15 +54,14 @@
             background-color: limegreen;
             height: 240px;
             width: 240px;
-            top: 30px;
-            margin: auto;
-            padding: auto;
+            margin-top: 40px;
+            margin-left: 195px;
 
 
         }
         
         .tall-green {
-            background-color: green;
+            background-color: #64DD17;
             height: 320px;
             width: 70px;
             border: 20px solid black;
@@ -76,8 +75,8 @@
             border: 5px solid black;
         }
         
-        .purple-insides {
-            background-color: purple;
+        .pink-insides {
+            background-color: #E91E63;
             height:75px;
             width:350px;
             margin-top: 16px;
@@ -91,20 +90,29 @@
             border: 20px solid black;
         }
         
+        bottom-right-section {
+            background-color:blue;
+            width: 100%;
+            height: 100%;
+        }
+        
         .black-purple-border {
             background-color: white;
             border: 10px solid black;
             height: 105px;
             width: 300px;
-            margin-top:140px;
-
+            margin-top: 100px;
+            margin-left: 230px;
         }
         
         .thick-bottom-purple {
-            background-color: blue;
-            
+            background-color: #AA00FF ;
+            height: 100%;
+            width:80%;
+            margin-left: 30px;
         }
         
         .last-container {
-            
+        
+        
         }
