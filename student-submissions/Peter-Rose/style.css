@@ -1,1 +1,110 @@
+        body {
+            background-color: white;
+            width: 100%!important;
+            height: 100%;
+            }
+            
+        .top-half-container {
+            display: table;
+            width: 100%;
+            display: flex;
+            
+        }
+        
+        .big-red {
+            height:300px;
+            width:580px;
+            background-color: red;
+            border: 38px solid black;
+            margin-bottom: 20px;
+            display: table-cell;
+        }
+        
+        .slim-blue {
+            background-color: blue;
+            width: 480px;
+            height: 80px;
+            border: 100px solid black;
+            margin-left: 30px;
+        }
+        
+        .mini-orange {
+            height: 240px;
+            width: 90px;
+            background-color: orange;
+            border: 15px solid black;
+            margin-left: 10px;
+            margin-top: 110px;
+        }
+        
+        
+        .bottom-half-container {
+             display:flex;   
+        }
+        
+        .black-white {
+            background-color:white;
+            height:320px;
+            width:618px;
+            border: 20px solid black;
 
+        }
+        
+        .lime {
+            background-color: limegreen;
+            height: 240px;
+            width: 240px;
+            top: 30px;
+            margin: auto;
+            padding: auto;
+
+
+        }
+        
+        .tall-green {
+            background-color: green;
+            height: 320px;
+            width: 70px;
+            border: 20px solid black;
+            margin-left: 180px;
+        }
+        
+        .white-black_outline {
+            height:110px;
+            width:538px;
+            background-color: white;
+            border: 5px solid black;
+        }
+        
+        .purple-insides {
+            background-color: purple;
+            height:75px;
+            width:350px;
+            margin-top: 16px;
+            margin-left: 90px;
+        }
+        
+        .long-john-orange {
+            height: 30px;
+            width:73%;
+            background-color: orange;
+            border: 20px solid black;
+        }
+        
+        .black-purple-border {
+            background-color: white;
+            border: 10px solid black;
+            height: 105px;
+            width: 300px;
+            margin-top:140px;
+
+        }
+        
+        .thick-bottom-purple {
+            background-color: blue;
+            
+        }
+        
+        .last-container {
+            
+        }
