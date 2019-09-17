@@ -20,10 +20,11 @@ body {
 
 #second {
   background-color: #3f05e7;
-  border: 74px solid black;
   box-shadow: 1px 7px 5px #cfcfcf;
-  border-left-width: 75px;
-  border-right-width: 75px;
+  border-left: 75px solid black;
+  border-right: 75px solid black;
+  border-bottom: 81px solid black;
+  border-top: 75px solid black;
   height: 71px;
   width: 354px;
   display: inline-block;
