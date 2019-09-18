@@ -7,93 +7,101 @@ html {
 
 section{
   display: flex;
+  max-width: 1365px;
+  min-width: 1365px;
+}
+
+body{
+  margin: 0px;
 }
 
 
 #red-box{
-    height: 325px ;
-    width: 514px;
+    min-height: 325px ;
+    min-width: 516px;
     background-color:#E63B05;
     border-top: 36px solid #000000;
     border-right: 45px solid #000000;
     border-left:45px solid #000000;
     border-bottom: 45px solid #000000;
-    margin-left: 82px;
-    margin-right: 39px;
+    margin-left: 81px;
+    margin-top: 8px;
 }
 
 #indigo-box{
     height: 223px;
-    width: 515px;
+    width: 516px;
     background-color: #3F05E7;
     border: 71px solid #000000;
     border-top: 71px solid #000000;
     border-left: 80px solid #000000;
     border-bottom: 80px solid #000000;
     border-right: 80px solid #000000;
+    margin-left: 38px;
+    margin-top: 8px;
 }
 
 #orange-box{
-  height: 253px;
-  width: 128px;
+  height: 255px;
+  width: 127px;
   background-color: #E69A04;
   border: 28px solid #000000;
-  margin-left: 17px;
-  margin-top: 70px;
+  margin-left: 15px;
+  margin-top: 80px;
 }
 
 #forestGreen-box{
   height: 335px;
-  width: 514px;
+  width: 515px;
   border: 18px solid #000000;
-  margin-left: 82px;
-  margin-top: 17px;
-  padding-left: 131px;
-  padding-right: 131px;
+  margin-left: 81px;
+  margin-top: 20px;
 }
 #boxInsideFG-box{
   background-color: #22E71B;
   height: 240px;
   width: 220px;
-  margin-top: 30px;
+  margin-top: 31px;
+  margin-left: 131px;
 }
 
 #turtleGreen-box{
   height: 335px;
   width: 128px;
   background-color: #22E77A;
-  border: 25px solid #000000;
+  border: 28px solid #000000;
   margin-left: 117px;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 #lilac-box{
   height: 130px;
-  width: 455px;
-  border: 5px solid #000000;
-  margin-top: 10px;
+  width: 450px;
+  border: 4px solid #000000;
+  margin-top: 20px;
+  margin-left: 0px;
 }
 
 #boxInsideL-box{
-  height: 90px;
-  width: 300px;
+  height: 88px;
+  width: 302px;
   background-color: #E605B4;
-  margin-left: 63px;
-  margin-top: 16px;
+  margin-left: 70px;
+  margin-top: 18px;
 }
 
 #darkLilac-box{
   height: 142px;
   width:304px;
   border: 24px solid #000000;
-  margin-top: 33px;
-  margin-left: 130px;
+  margin-top: 36px;
+  margin-left: 145px;
 }
 
 #boxInsideDL-box{
   height: 94px;
   width: 203px;
-  margin-left: 25px;
+  margin-left: 27px;
   background-color: #8407BE;
 }
 
@@ -102,6 +110,6 @@ section{
   width: 1209px;
   background-color: #E76405;
   border: 28px solid #000000;
-  margin-left: 82px;
+  margin-left: 81px;
   margin-bottom: 32px;
 }
