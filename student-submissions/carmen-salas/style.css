@@ -1,0 +1,84 @@
+#first{
+    width:426px;
+    height:246px;
+    background-color: red;
+    border-style:solid;
+    border-width: 44px;
+}
+
+#second
+{
+    width:355px;
+    height:72px;
+    border-width:80px;
+    border-style:solid;
+    background-color: blue;
+    
+}
+
+#third{
+    width:72px;
+    height:200px;
+    border-style: solid;
+    border-width: 29px;
+}
+
+#fourth{
+    box-sizing:border-box;
+    border-width:20px;
+    border-style:solid;
+    width:480px;
+    height:300px;
+    /*padding-top: 30px;*/
+    
+}
+
+#fourth-in{
+    width:338px;
+    height:220px;
+    margin:auto;
+    background-color: green;
+}
+
+#fifth{
+    width:72px;
+    height:275px;
+    border-width:30px;
+    border-style:solid;
+    background-color:green;
+}
+
+#sixth{
+    width:442px;
+    height:124px;
+    border-width:5px;
+    border-style:solid;
+}
+
+#sixth-in
+{
+    width:300px;
+    height:88px;
+    background-color: pink;
+    
+}
+
+#seventh{
+    width:260px;
+    height:98px;
+    border-width:25px;
+    border-style:solid;
+}
+
+#seventh-in{
+    height:98px;
+    width:202px;
+    background-color: green;
+}
+
+#eighth{
+    width: 76px;
+    height:34px;
+    border-width: 38px;
+    border-style:solid;
+}
