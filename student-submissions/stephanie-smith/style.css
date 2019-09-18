@@ -5,6 +5,11 @@ body {
   margin: 0;
 }
 
+#holder {
+  height: 670px;
+  width: 1360px;
+}
+
 #first {
   background-color: #e63b05;
   height: 245px;
