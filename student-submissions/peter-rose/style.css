@@ -1,0 +1,106 @@
+     .top-half-container {
+            width: 1211px
+        }
+        
+        .big-red {
+            height:300px;
+            width:580px;
+            background-color: red;
+            border: 38px solid black;
+            margin-bottom: 20px;
+            display: inline-block;
+        }
+        
+        .slim-blue {
+            background-color: blue;
+            width: 480px;
+            height: 80px;
+            border: 100px solid black;
+            margin-left: 30px;
+            display: inline-block;
+        }
+        
+        .mini-orange {
+            height: 240px;
+            width: 90px;
+            background-color: orange;
+            border: 15px solid black;
+            margin-left: 10px;
+            margin-top: 110px;
+            display: inline-block;
+        }
+        
+        
+        .bottom-half-container {
+             display:flex;   
+        }
+        
+        .black-white {
+            background-color:white;
+            height:320px;
+            width:618px;
+            border: 20px solid black;
+
+        }
+        
+        .lime {
+            background-color: limegreen;
+            height: 240px;
+            width: 240px;
+            margin-top: 40px;
+            margin-left: 195px;
+
+
+        }
+        
+        .tall-green {
+            background-color: #64DD17;
+            height: 320px;
+            width: 70px;
+            border: 20px solid black;
+            margin-left: 180px;
+        }
+        
+        .white-black_outline {
+            height:110px;
+            width:538px;
+            background-color: white;
+            border: 5px solid black;
+        }
+        
+        .pink-insides {
+            background-color: #E91E63;
+            height:75px;
+            width:350px;
+            margin-top: 16px;
+            margin-left: 90px;
+        }
+        
+        .long-john-orange {
+            height: 30px;
+            width: 1211px;
+            background-color: orange;
+            border: 20px solid black;
+        }
+        
+        .black-purple-border {
+            background-color: white;
+            border: 10px solid black;
+            height: 105px;
+            width: 300px;
+            margin-top: 100px;
+            margin-left: 230px;
+        }
+        
+        .thick-bottom-purple {
+            background-color: #AA00FF ;
+            height: 99px;
+            width:205px;
+            margin-left: 30px;
+        }
+        
+.orange-bottom {
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+}
