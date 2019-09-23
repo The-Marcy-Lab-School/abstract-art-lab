@@ -1,106 +1,116 @@
-     .top-half-container {
-            width: 1211px
-        }
-        
-        .big-red {
-            height:300px;
-            width:580px;
-            background-color: red;
-            border: 38px solid black;
-            margin-bottom: 20px;
-            display: inline-block;
-        }
-        
-        .slim-blue {
-            background-color: blue;
-            width: 480px;
-            height: 80px;
-            border: 100px solid black;
-            margin-left: 30px;
-            display: inline-block;
-        }
-        
-        .mini-orange {
-            height: 240px;
-            width: 90px;
-            background-color: orange;
-            border: 15px solid black;
-            margin-left: 10px;
-            margin-top: 110px;
-            display: inline-block;
-        }
-        
-        
-        .bottom-half-container {
-             display:flex;   
-        }
-        
-        .black-white {
-            background-color:white;
-            height:320px;
-            width:618px;
-            border: 20px solid black;
+body {
+    width: 1211px;
+    height: 766px;
+}
 
-        }
-        
-        .lime {
-            background-color: limegreen;
-            height: 240px;
-            width: 240px;
-            margin-top: 40px;
-            margin-left: 195px;
+.top-half-container {
+    width: auto;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.big-red {
+     height: 244px;
+     width: 426px;
+     background-color: #e40;
+     border: 46px solid black;
+}
+
+.slim-blue { 
+     height: 72px;
+     width:354px;
+     background-color: #3f05e7;
+     border: 80px solid black;
+     margin-left: 39px;
+}
+
+.mini-orange {
+    height: 197px;
+    width: 72px;
+    background-color: #e69a04;
+    border: 28px solid black;
+    margin-left: 19px;
+    margin-top: 81px;
+    margin-bottom: 0px;
+}
+
+.bottom-half-container {
+    display: flex;
+    padding-top: 18px;
+}
+
+.black-white {
+    height: 299px;
+    width: 481px;
+    border: 18px solid black;
+    background-color: white;
+}
+
+.lime {
+    width: 221px;
+    height: 239px;
+    background-color: #2dcb41;
+    margin: 29px 129px;
+}
+
+.right-bottom-container  {
+    width: 578px;
+    margin-left: 117px;
+    height: 334px;
+    display: flex;
+}
+
+.tall-green {
+    height: 277px;
+    width: 72px;
+    border: 29px solid black;
+    background-color: #22e77a;
+    margin:0px;
+    display: inline-block;
+}
 
 
-        }
-        
-        .tall-green {
-            background-color: #64DD17;
-            height: 320px;
-            width: 70px;
-            border: 20px solid black;
-            margin-left: 180px;
-        }
-        
-        .white-black_outline {
-            height:110px;
-            width:538px;
-            background-color: white;
-            border: 5px solid black;
-        }
-        
-        .pink-insides {
-            background-color: #E91E63;
-            height:75px;
-            width:350px;
-            margin-top: 16px;
-            margin-left: 90px;
-        }
-        
-        .long-john-orange {
-            height: 30px;
-            width: 1211px;
-            background-color: orange;
-            border: 20px solid black;
-        }
-        
-        .black-purple-border {
-            background-color: white;
-            border: 10px solid black;
-            height: 105px;
-            width: 300px;
-            margin-top: 100px;
-            margin-left: 230px;
-        }
-        
-        .thick-bottom-purple {
-            background-color: #AA00FF ;
-            height: 99px;
-            width:205px;
-            margin-left: 30px;
-        }
-        
-.orange-bottom {
-    height: 400px;
-    width: 400px;
-    background-color: orange;
+.pink-purple-group {
+    display: inline-block;
+}
+
+.white-black-outline {
+    height: 123px;
+    width: 442px;
+    background-color: white;
+    border: 4px solid black;
+}
+
+.pink-insides {
+    height: 88px;
+    width: 300px;
+    background-color: #ca16bc;
+    margin: 18px 72px;
+}
+
+.black-purple-border {
+    height: 96px;
+    width: 257px;
+    background-color: white;
+    border: 24px solid black;
+    margin: 37px 0px 0px 149px;
+}
+
+.purple-insides {
+    height: 96px;
+    width: 205px;
+    margin: 0px 26px;
+    background-color: #8329bf;
+}
+
+.last-container {
+    display: block;
+}
+
+.long-john-orange {
+    height: 33px;
+    width: 1153px;
+    background-color: #cd6041;
+    border: 29px solid black;
+    
 }
