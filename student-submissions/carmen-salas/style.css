@@ -1,0 +1,138 @@
+body{
+    margin:auto;
+    text-align:center; 
+    padding:0;
+    
+}
+
+.con{
+    margin:0;
+    display:inline-block;
+}
+ #con-3{
+     margin: 0;
+     padding:0;
+
+ }
+ #con-4{
+     height:100%;
+     width:450px;
+     display: inline-block;
+   
+ }
+ 
+ /*#con-5{*/
+ /*    height:145px;*/
+     /*margin:0 60px 0 20px;*/
+ /*}*/
+
+
+#first{
+    width:426px;
+    height:246px;
+    background-color:#e73b03;
+    border-style:solid;
+    border-width: 44px;
+    display:inline-block;
+    margin-bottom:10px;
+}
+
+#second
+{
+    width:355px;
+    height:80px;
+    border-width:80px;
+    border-style:solid;
+    background-color: #3f04e7;
+    display:inline-block;
+    margin:0 10px 104px 40px;
+}
+
+#third{
+    width:72px;
+    height:200px;
+    border-style: solid;
+    border-width: 29px;
+    background-color: #e69a04;
+    display:inline-block;
+    margin:70px 0 0 18px;
+}
+
+#fourth{
+    border-width:20px;
+    border-style:solid;
+    width:480px;
+    height:300px;
+    display:inline-block;
+    /*margin:0 10px 0 140px;*/
+    
+
+}
+
+#fourth-in{
+    width:338px;
+    height:220px;
+    margin:40px auto;
+    background-color:#22e71b;
+
+    
+}
+
+#fifth{
+    width:72px;
+    height:275px;
+    border-width:30px;
+    border-style:solid;
+    background-color:#24e77b;
+    display: inline-block;
+    margin-left:118px;
+}
+
+#sixth{
+    width:442px;
+    height:124px;
+    border-width:5px;
+    border-style:solid;
+    display:inline-block;
+  
+
+}
+
+#sixth-in
+{
+    width:300px;
+    height:88px;
+    background-color:#e704b5;
+    display: inline-block;
+    margin:15px auto;
+    
+}
+
+#seventh{
+    width:260px;
+    height:98px;
+    border-width:25px;
+    border-style:solid;
+    display: flex;
+    margin-left:138px;
+    margin-top: 77.4px
+    
+}
+
+#seventh-in{
+    height:98px;
+    width:202px;
+    background-color:#8405bf;
+    margin:auto;
+    display: inline-block;
+}
+
+#eighth{
+    width:1155px;
+    height:34px;
+    border-width:30px;
+    border-style:solid;
+    display: inline-block;
+    background-color: #e76405;
+    /*margin-top:0;*/
+}
