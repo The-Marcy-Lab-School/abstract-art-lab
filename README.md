@@ -11,5 +11,5 @@
 1. Fork this repository.
 2. Clone **your fork** to your local environment.
 3. Create an `index.html` file and a `style.css` file. Connect them and recreate the project!
-4. Commit your changes regularly.
-5. When you have finished the project, push your changes up to your remote repo.
+4. Commit and push your changes regularly.
+5. When you have finished the project, open a pull request into `The-Marcy-Lab-School:master` branch.
