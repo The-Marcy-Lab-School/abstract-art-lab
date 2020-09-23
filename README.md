@@ -13,4 +13,3 @@
 3. Create an `index.html` file and a `style.css` file. Connect them and recreate the project!
 4. Commit your changes regularly.
 5. When you have finished the project, push your changes up to your remote repo.
-
