@@ -10,12 +10,7 @@
 ### Directions
 1. Fork this repository.
 2. Clone **your fork** to your local environment.
-3. Change directories into the `student-submissions` directory.
-4. Create a folder with the following naming convention `first-last`.
-5. Inside your folder (`student-submissions/first-last`), create an `index.html` file and a `style.css` file. Connect them and recreate the project!
-6. Commit your changes regularly.
-7. When you have finished the project, push your changes up to your remote repo.
-8. Lastly, _open a pull request_ to merge your changes back into `Marcy-Lab-School/abstract-art-lab`
+3. Create an `index.html` file and a `style.css` file. Connect them and recreate the project!
+4. Commit your changes regularly.
+5. When you have finished the project, push your changes up to your remote repo.
 
-### Due Date
-Thursday, September 19 at 9AM
