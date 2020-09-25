@@ -8,8 +8,7 @@
 * **Note**: There are no customizations allowed for this lab🙅🏿‍♂️. In order to pass, your project must pass the _blink test_.
 
 ### Directions
-1. Fork this repository.
-2. Clone **your fork** to your local environment.
-3. Create an `index.html` file and a `style.css` file. Connect them and recreate the project!
-4. Commit and push your changes regularly.
-5. When you have finished the project, open a pull request into `The-Marcy-Lab-School:master` branch.
+1. Clone this repository.
+2. Create an `index.html` file and a `style.css` file. Connect them and recreate the project!
+3. Commit and push your changes.
+
