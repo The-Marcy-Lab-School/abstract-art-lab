@@ -8,10 +8,10 @@
 * **Note**: There are no customizations allowed for this lab🙅🏿‍♂️. In order to pass, your project must pass the _blink test_.
 
 ### Directions
-  1a. If this is a *Practice Lab*, fork this repo and clone down the forked repo. **OR**
-  1b. If this is a *Lab Assignment*, just clone this repo without forking it.
+  1. If this is a *Practice Lab*, fork this repo and clone down the forked repo. **OR**
+  1. If this is a *Lab Assignment*, just clone this repo without forking it.
   2. Create your HTML and CSS files.
   3. Stage, commit, and push your changes regularly.
-  4a. If this is a *Practice Lab*, open a pull request into `The-Marcy-Lab-School:master` branch to submit. **OR**
-  4b. If this is a *Lab Assignment*, copy the URL of this repo and submit it through Canvas. 
+  4. If this is a *Practice Lab*, open a pull request into `The-Marcy-Lab-School:master` branch to submit. **OR**
+  4. If this is a *Lab Assignment*, copy the URL of this repo and submit it through Canvas. 
 
