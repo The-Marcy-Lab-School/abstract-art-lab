@@ -7,7 +7,7 @@
 * You may not use images for this assignment. You will have to rely on your **display** and **position** properties and understanding of the **Box Model** in order to produce a **pixel perfect** recreation!
 *  You may not use Flexbox or Grid for this lab. You will be introduced to these tools later on, and they will make webpage layouts so much easier! But for now, it's important that you understand the *fundamentals* of HTML & CSS in order to create your layout *from scratch*. Once you have mastered the fundamentals, we then teach you the tools and the abstractions to create layouts more quickly and efficiently!
 
->> **Note**: There are no customizations allowed for this lab🙅🏿‍♂️. In order to pass, your project must pass the _blink test_. In addition, you should zoom in,  zoom out, and change the screen size of your browser to make sure your recreation maintains the same layout and ratio. 
+>> **Note**: There are no customizations allowed for this lab🙅🏿‍♂️. In order to pass, your project must pass the _blink test_. Open the mockup and your webpage in two differente tabs. If you toggle between the tabs and only close you eyes for a second, the two should look identical! In addition, you should zoom in, zoom out, and change the screen size of your browser to make sure your recreation maintains the same layout and ratio like it does with the mockup! 
 
 ### Directions
   1. If this is a *Practice or Pairing Lab*, fork this repo and clone down the forked repo **OR** if this is a *Lab Assignment* that was generate using Github classroom, then your repo name will end in your username. No need to fork, just clone this repo without forking it.
