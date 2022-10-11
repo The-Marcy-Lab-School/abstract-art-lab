@@ -1,5 +1,5 @@
 # Abstract Art Lab
-## Unit 1 - Lesson 1: The Box Model and Layout Foundations
+## The Box Model and Layout Foundations
 
 ### Objective
 * Reuben is an aspiring artist 👨🏿‍🎨. He specializes in abstract art. He has designed a piece that he hopes to sell for enough 💰💰💰 to fund the rest of the year at the Marcy Lab School but first, he needs his Fellows to draw this up on plain old HTML and CSS.
