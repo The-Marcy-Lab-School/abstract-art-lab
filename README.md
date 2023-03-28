@@ -4,7 +4,9 @@
 ### Objective
 * Reuben is an aspiring artist 👨🏿‍🎨. He specializes in abstract art. He has designed a piece that he hopes to sell for enough 💰💰💰 to fund the rest of the year at the Marcy Lab School but first, he needs his Fellows to draw this up on plain old HTML and CSS.
 * Your task is to [**recreate this mockup**](http://abstract-art-lab.s3-website.us-east-2.amazonaws.com/) in HTML/CSS.
-* You may not use images for this assignment. You will have to rely on your **display** and **position** properties and understanding of the **Box Model** in order to produce a **pixel perfect** recreation!
+* You may not use images for this assignment. You will have to rely on your understanding of the **Box Model** in order to produce a **pixel perfect** recreation! 
+* You cannot use Flexbox, Grid, or `position: absolute`. 
+* You goal is to use display, padding, margin, and border to get th desired webpage.
 * You should zoom in, zoom out, and change the screen size of your browser to make sure your recreation maintains the same layout and ratio like it does with the mockup! 
 * You may not use Flexbox or Grid for this lab. You will be introduced to these tools later on, and they will make webpage layouts so much easier! But for now, it's important that you understand the *fundamentals* of HTML & CSS in order to create your layout *from scratch*. Once you have mastered the fundamentals, we then teach you the tools and the abstractions to create layouts more quickly and efficiently!
 
